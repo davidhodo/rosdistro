@@ -302,23 +302,23 @@ libqhull:
 libqt5-core:
   osx:
     homebrew:
-      packages: [qt5]
+      packages: [qt]
 libqt5-gui:
   osx:
     homebrew:
-      packages: [qt5]
+      packages: [qt]
 libqt5-opengl:
   osx:
     homebrew:
-      packages: [qt5]
+      packages: [qt]
 libqt5-opengl-dev:
   osx:
     homebrew:
-      packages: [qt5]
+      packages: [qt]
 libqt5-widgets:
   osx:
     homebrew:
-      packages: [qt5]
+      packages: [qt]
 libqwt:
   osx:
     homebrew:
@@ -649,11 +649,11 @@ python-yaml:
 qt5-qmake:
   osx:
     homebrew:
-      packages: [qt5]
+      packages: [qt]
 qtbase5-dev:
   osx:
     homebrew:
-      packages: [qt5]
+      packages: [qt]
 rake:
   osx:
     homebrew:
